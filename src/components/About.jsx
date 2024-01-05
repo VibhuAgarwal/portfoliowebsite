@@ -8,7 +8,7 @@ const About = () => {
                 <article>
                     <Section text='About ME' />
                     <p className='text-slate-600 mt-8 leading-loose'>
-                        A passionate and innovative Front End Developer seeking opportunities to transform visionary designs into seamless, user-centric web experiences. Eager to leverage expertise in HTML, CSS, JavaScript, ReactJS to craft visually stunning and highly functional interfaces that elevate user experience.
+                        A passionate and innovative Front End Developer(React.js) seeking opportunities to transform visionary designs into seamless, user-centric web experiences. Eager to leverage expertise in HTML, CSS, JavaScript, ReactJS to craft visually stunning and highly functional interfaces that elevate user experience.
                     </p>
                 </article>
             </div>
